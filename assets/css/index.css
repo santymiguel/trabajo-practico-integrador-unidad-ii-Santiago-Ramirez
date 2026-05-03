@@ -1,0 +1,28 @@
+.img {
+  width: 500px;
+  height: auto;
+  padding: 50px;
+  margin: 50px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: rgba(0, 0, 0, 0.582);
+}
+.fw-light {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 25px;
+}
+.margin-grande {
+  margin: 100px;
+}
+
+p {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+}
