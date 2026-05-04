@@ -1,0 +1,51 @@
+.titulo {
+  font-family: "Oswald", sans-serif;
+}
+.margin-grande {
+  margin: 50px;
+}
+i {
+  font-size: 24px;
+  color: aliceblue;
+}
+.txt {
+  color: aliceblue;
+}
+
+.txt hr {
+  border: 1px solid aliceblue;
+  margin: 20px 0;
+}
+.txt h1 {
+  color: aliceblue;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+p {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+  color: aliceblue;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.envoltorio {
+  margin: 100px auto;
+  width: 70%;
+}
+.img {
+  max-width: 500px;
+  float: right;
+  border: 3px solid #05a127;
+  border-radius: 10px;
+  margin-left: 15px;
+}
